@@ -1,9 +1,5 @@
-# Fabric Example Mod
+# Cartography Helper
 
-## Setup
+This is a fabric mod, which adds a few more buttons to the Cartography Table.
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+These make locking and copying a lot of maps way faster!
